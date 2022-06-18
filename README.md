@@ -1,4 +1,4 @@
-# Fork of Instagram of DIO 🙃
+# DIO's Instagram Fork 🙃
 This is the Flexbox class repository, which has the Instagram login iterface! 
 
 ## Preview
