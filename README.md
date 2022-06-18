@@ -1,8 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Fork of Instagram of DIO 🙃
+This is the Flexbox class repository, which has the Instagram login iterface! 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## Preview
 
-### Os requisitos são:
+
+
+## Necessary knowledge:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
